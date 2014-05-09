@@ -6,4 +6,6 @@
 
 New changes that should be pushed.
 
-And this should be seen in the branch
+And this should be seen in the branch.
+
+Now this should actually come up because now I am in the branch.
